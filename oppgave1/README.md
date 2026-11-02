@@ -1,5 +1,7 @@
 # Utplassering-Golang-2026
 
+## FRIVILLIG OPPGAVE
+
 Dere må først laste ned GO. Dette gjøres [her](https://go.dev/doc/install).
 
 ### Hvordan starte et go prosjekt:
